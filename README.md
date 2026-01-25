@@ -62,6 +62,12 @@ When enabled, a window with 6 trackbars will appear, allowing you to adjust the 
 
 Press **`q`** on your keyboard to quit the application.
 
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 👤 Author
 
 **Bernardo Sabino**
